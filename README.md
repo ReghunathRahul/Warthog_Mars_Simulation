@@ -101,7 +101,7 @@ We tuned the cost weights so the robot strongly prefers going forward, doesn't c
 
 ## Running It
 
-**You'll need:** Isaac Sim (2023.1+), ROS 2 Humble, Nav2, RTAB-Map, and a decent NVIDIA GPU (RTX 3070 or better — Isaac Sim is hungry).
+**You'll need:** Isaac Sim (2023.1+), ROS 2 Humble, Nav2, RTAB-Map, and a decent NVIDIA GPU (RTX 5070 or better).
 
 ```bash
 # Build the workspaces
